@@ -1,0 +1,28 @@
+World Happiness Regression — Model Evaluation
+==================================================
+Model: Linear Regression
+Task: Regression (predicting Happiness Score)
+
+Mean Absolute Error (MAE): 0.0003
+Mean Squared Error  (MSE): 0.0000
+R-squared Score     (R²):  1.0000
+
+Interpretation:
+  - Average prediction error: 0.00 happiness points
+  - Model explains 100.0% of variance in Happiness Scores
+
+Features used:
+  - Economy
+  - Family
+  - Health
+  - Freedom
+  - Generosity
+  - Corruption
+  - Dystopia
+  - Job_Satisfaction
+  - Region_Asia-Pacific
+  - Region_Eastern Europe
+  - Region_Europe
+  - Region_Latin America
+  - Region_North America
+  - Region_Western Europe
